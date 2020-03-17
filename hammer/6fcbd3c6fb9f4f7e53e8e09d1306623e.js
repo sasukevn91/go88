@@ -1,0 +1,1 @@
+Pt.Extensions['Controllers.HomeController']={resolve:function(next){console.log('home extension');next()}}
